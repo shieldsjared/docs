@@ -1,6 +1,6 @@
 # Mattermost Desktop Application Changelog
 
-## Release v1.3.0 (Beta)
+## Release v1.3.0
 
 Release date: 2016-07-16
 
@@ -22,7 +22,7 @@ Release date: 2016-07-16
 - Added auto-reloading when tab fails to load the team.
 - Added the ability to access all of your teams by right clicking the system tray icon.
 
-#### Linux
+#### Linux (Beta)
 - Added an option to show the icon on menu bar (requires libappindicator1 on Ubuntu).
 - Added an option to launch application on login.
 - Added an option to minimize the app to the system tray when closed.
