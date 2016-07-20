@@ -1,17 +1,9 @@
-The title of "Most Valued Professional" is awarded to an outstanding contributor for a Mattermost Desktop App release.
+**The following awards have been given for significant contributions to the Mattermost Desktop App:**
 
-+---------------------+--------------------+----------------------------------------+
-| Version             | Release Date       | MVP                                    |
-+=====================+====================+========================================+
-| 1.3                 | July 18, 2016      | `Razzeee <https://github.com/Razzeee>`_|
-+---------------------+--------------------+----------------------------------------+
+Mattermost Desktop Top Contributor: **Kolja Lampe** (`Razzeee <https://github.com/Razzeee>`_) - v1.3 - July 18, 2016
 
+Mattermost Desktop Quality Champion : **Michael Bisbjerg** (`LordMike <https://github.com/LordMike>`_) - v1.3 - July 18, 2016
 
+Mattermost Desktop Quality Champion: **Steve MacQuiddy** - v1.3, July 18 - 2016
 
-The title of "Bug Hunt Champion" is awarded to top contributors of a Mattermost Desktop Bug Hunter Contest.
-
-+---------------------+--------------------+--------------------------------------------+
-| Version             | Contest Date       | Top Contributors                           |
-+=====================+====================+============================================+
-| 1.3                 | July 7 - 11, 2016  | David Lu, Steve MacQuiddy, Michael Bisbjerg|
-+---------------------+--------------------+--------------------------------------------+
+Mattermost Desktop Quality Champion: **David Lu** (`DavidLu1997 <https://github.com/DavidLu1997>`_) - v1.3 - July 18, 2016
